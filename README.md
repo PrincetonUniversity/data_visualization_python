@@ -6,7 +6,7 @@ This workshop provides an introduction to data visualization in Python. The trai
 
 ## Getting Help
 
-If you encounter any difficulties with this material then please send an email to <a href="mailto:cses@princeton.edu">cses@princeton.edu</a> or attend a <a href="https://researchcomputing.princeton.edu/education/help-sessions">help session</a>.
+If you encounter any difficulties with this material then please send an email to <a href="mailto:visrc@princeton.edu">visrc@princeton.edu</a> or attend a <a href="https://researchcomputing.princeton.edu/education/help-sessions">help session</a>.
 
 ## Authorship
 
