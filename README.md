@@ -2,7 +2,7 @@
 
 ## About
 
-This workshop provides an introduction to data visualization in Python. The training focuses on three plotting packages: Matplotlib, Seaborn, and Plotly. Examples include simple static 1D plots, 2D contour maps, heat maps, violin plots, and box plots. The material also covers interactive plots.
+This workshop provides an introduction to data visualization in Python. The training focuses on three plotting packages: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Plotly](https://plotly.com/python/). Examples include simple static 1D plots, 2D contour maps, heat maps, violin plots, and box plots. The material also covers interactive plots.
 
 ## Getting Help
 
