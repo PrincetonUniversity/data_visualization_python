@@ -4,7 +4,7 @@
 
 This workshop provides an introduction to data visualization in Python. The training focuses on three plotting packages: [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Plotly](https://plotly.com/python/). Examples include simple static 1D plots, 2D contour maps, heat maps, violin plots, and box plots. The material also covers interactive plots.
 
-To get started, click on `python_data_vis.ipynb` above and then click on the "Open in Colab" button. If you cannot use Colab then try [jupyterlite](https://github.com/jdh4/data_visualization_python).
+To get started, click on `python_data_vis.ipynb` above and then click on the "Open in Colab" button. If you cannot use Colab then try [jupyterlite](https://jdh4.github.io/data_visualization_python/).
 
 ## Getting Help
 
