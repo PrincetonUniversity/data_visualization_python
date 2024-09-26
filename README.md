@@ -12,4 +12,4 @@ If you encounter any difficulties with this material then please send an email t
 
 ## Authorship
 
-This guide was created by Michal Grzadkowski and Brian Arnold with contributions by Jake Snell, Carolina Roe-Raymond, and members of Princeton Research Computing.
+The workshop materials were created by Michal Grzadkowski and Brian Arnold with contributions by Jake Snell, Carolina Roe-Raymond, and members of Princeton Research Computing.
